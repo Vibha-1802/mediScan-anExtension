@@ -25,7 +25,7 @@ function GenerationPage() {
         expiry_date: expiryDate
       });
       setQrUUID(res.data.qrUUID);
-      setMessage('Successfully new batch added.');
+      setMessage(`Successfully new batch added! UUID: ${res.data.qrUUID}`);
     } catch (err) {
       setMessage(err.response?.data?.message || 'Error generating QR');
     }

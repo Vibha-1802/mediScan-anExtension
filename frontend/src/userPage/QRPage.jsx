@@ -13,11 +13,8 @@ function QRPage() {
   const fileInputRef = useRef(null);
   const canvasRef = useRef(null);
 
-  // Load the background image from the public folder
+
   useEffect(() => {
-    // In a real implementation, you would have your image in the public folder
-    // and reference it directly. For this example, we're setting a placeholder
-    // that would be replaced with the actual image path in production.
     setBackgroundImage('C:\Users\Swathi\Desktop\Vibha\MediScan\frontend\src\assets\backgroundmediscan.png');
   }, []);
 
@@ -167,7 +164,7 @@ function QRPage() {
                 </tr>
                 <tr className="expiry-row">
                   <td><strong>Expiry Date</strong></td>
-                  <td className="expiry-highlight">{medicineData.expiry_date}</td>
+                  <td className="expiry-highlight">{medicineData.expiry_date.slice(0,-1)}</td>
                 </tr>
                 <tr>
                   <td><strong>Status</strong></td>

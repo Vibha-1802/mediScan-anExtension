@@ -16,7 +16,7 @@ const getTabletByUUID=async(req,res)=>{
     const responseData = {
       tid: row.tid,
       mid: row.mid,
-      expiry_date: row.expiry_date,
+      expiry_date: row.expiry_date + 1,
       status: expiryDate < currentDate ? 'Expired' : 'Not Expired',
       medicine_name: row.medicine_name,
       ingredient: row.ingredient,
