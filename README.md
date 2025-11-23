@@ -15,19 +15,9 @@
 * [Overview](#overview)
 * [Features](#features)
 * [Tech Stack](#tech-stack)
-* [Project Structure](#project-structure)
 * [Prerequisites](#prerequisites)
 * [Installation & Setup (Bash)](#installation--setup-bash)
 * [Environment (.env) Example](#environment-env-example)
-* [Run Commands](#run-commands)
-* [Database (migrations & seeding)](#database-migrations--seeding)
-* [API Endpoints (example)](#api-endpoints-example)
-* [Usage](#usage)
-* [Testing](#testing)
-* [Deployment (short)](#deployment-short)
-* [Security & Best Practices](#security--best-practices)
-* [Contributing](#contributing)
-* [License & Contact](#license--contact)
 
 ---
 
