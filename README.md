@@ -17,7 +17,6 @@ https://github.com/user-attachments/assets/0c6bd517-dcbf-41f5-ae04-def3f99f15c6
 * [Overview](#overview)
 * [Features](#features)
 * [Tech Stack](#tech-stack)
-* [Project Structure](#project-structure)
 * [Prerequisites](#prerequisites)
 * [Installation & Setup (Bash)](#installation--setup-bash)
 * [Environment (.env) Example](#environment-env-example)
