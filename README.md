@@ -6,7 +6,9 @@
 
 ## ⚡ Quick Links
 
-* **Demo video:** `docs/prototype.mp4`
+**Demo video:**
+  
+https://github.com/user-attachments/assets/0c6bd517-dcbf-41f5-ae04-def3f99f15c6
 
 ---
 
@@ -18,6 +20,8 @@
 * [Prerequisites](#prerequisites)
 * [Installation & Setup (Bash)](#installation--setup-bash)
 * [Environment (.env) Example](#environment-env-example)
+* [Algorithm](#algorithm)
+
 
 ---
 
@@ -100,3 +104,10 @@ PG_PORT= 5432
 CORS_ORIGIN_URL=http://localhost:5173
 ```
 ---
+
+## Algorithm
+
+<img width="372" height="372" alt="image" src="https://github.com/user-attachments/assets/e4bfdd11-68aa-4b9b-92e1-f0b110e82967" />
+<img width="430" height="528" alt="image" src="https://github.com/user-attachments/assets/d4261fad-7cef-4b39-aca6-2a1170fef522" />
+<img width="412" height="525" alt="image" src="https://github.com/user-attachments/assets/bc7796d9-7430-403c-8c7a-c0a067889cf5" />
+
